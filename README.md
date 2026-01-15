@@ -95,11 +95,17 @@ El repositorio actualmente incluye:
 Puedes expandir este proyecto agregando:
 
 ✔ Lógica de juego (núcleo)
+
 ✔ Manejo de gráficos (JavaFX, Swing)
+
 ✔ Entrada de usuario (teclado/ratón)
+
 ✔ Audio y efectos
+
 ✔ Menús e interfaz gráfica
+
 ✔ Guardado de progreso
+
 ✔ Niveles y enemigos
 
 
